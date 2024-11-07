@@ -10,3 +10,7 @@
 /datum/armament_entry/company_import/microstar/basic_energy_weapons/disabler
 	item_type = /obj/item/gun/energy/disabler
 	cost = PAYCHECK_CREW * 5
+
+/datum/armament_entry/company_import/microstar/basic_energy_long_weapons/egun
+	item_type = /obj/item/gun/energy/e_gun
+	cost = PAYCHECK_COMMAND * 8
